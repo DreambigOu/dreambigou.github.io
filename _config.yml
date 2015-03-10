@@ -1,11 +1,11 @@
 # Site settings
-name: 
-email: 
-job_title: 
-institution: 
-institution_URL: 
+name: Andrew
+email: ou9@illinoi.edu
+job_title: student
+institution: UIUC
+institution_URL: illinois.edu
 twitter_username: 
-github_username: 
+github_username: dreamibg.ou
 
 # Build settings
 markdown: kramdown
